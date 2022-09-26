@@ -4,7 +4,7 @@
 
 
 # Include file with paths configs
-paths_conf="./configs/paths.conf"
+paths_conf="../../configs/paths.conf"
 . ${paths_conf}
 
 
